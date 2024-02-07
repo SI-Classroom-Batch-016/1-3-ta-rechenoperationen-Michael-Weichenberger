@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe1/Aufgabe1.iml" filepath="$PROJECT_DIR$/Aufgabe1/Aufgabe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe2/Aufgabe2.iml" filepath="$PROJECT_DIR$/Aufgabe2/Aufgabe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe3/Aufgabe3.iml" filepath="$PROJECT_DIR$/Aufgabe3/Aufgabe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe10/Aufgabe10.iml" filepath="$PROJECT_DIR$/Aufgabe10/Aufgabe10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe11/Aufgabe11.iml" filepath="$PROJECT_DIR$/Aufgabe11/Aufgabe11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe5/Aufgabe5.iml" filepath="$PROJECT_DIR$/Aufgabe5/Aufgabe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe6/Aufgabe6.iml" filepath="$PROJECT_DIR$/Aufgabe6/Aufgabe6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe4/Aufgabe4.iml" filepath="$PROJECT_DIR$/Aufgabe4/Aufgabe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe8/Aufgabe8.iml" filepath="$PROJECT_DIR$/Aufgabe8/Aufgabe8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe9/Aufgabe9.iml" filepath="$PROJECT_DIR$/Aufgabe9/Aufgabe9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe7.1/Aufgabe7.1.iml" filepath="$PROJECT_DIR$/Aufgabe7.1/Aufgabe7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe7.2/Aufgabe7.2.iml" filepath="$PROJECT_DIR$/Aufgabe7.2/Aufgabe7.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe7.3/Aufgabe7.3.iml" filepath="$PROJECT_DIR$/Aufgabe7.3/Aufgabe7.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grundlagen_TA_Rechenoperationen.iml" filepath="$PROJECT_DIR$/Grundlagen_TA_Rechenoperationen.iml" />
+    </modules>
+  </component>
+</project>
