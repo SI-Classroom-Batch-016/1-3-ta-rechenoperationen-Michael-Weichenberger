@@ -6,9 +6,9 @@ fun main(){
     Gebe nun das gesamte Datum mit Hilfe der Variablen auf der Konsole aus. (15. März 2023)
      */
 
-    var tag ="15. "
-    var monat = "März "
+    var tag = "15."
+    var monat = "März"
     var jahr = "2023"
-
-    println()
+    var sum = "$tag $monat $jahr"
+    println("$sum")
 }

@@ -7,8 +7,9 @@ fun main(){
 
     var zahl1 = 7
     var zahl2 = 3
-
-    println("$zahl1 geteilt durch $zahl2 ergibt:  Rest:  ")
+    var sum1 = zahl1 / zahl2
+    var sum = zahl1 % zahl2
+    println("$zahl1 geteilt durch $zahl2 ergibt: $sum1 Rest:$sum  ")
 
 
 }

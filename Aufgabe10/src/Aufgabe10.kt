@@ -5,5 +5,7 @@ fun main(){
 
     //Berechne hier den Flächeninhalt
 
+    var fläche: Double = a * b
+    println("Der Flächeninhalt beträgt $fläche")
 
 }
